@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kamal_musaev_hw_6_2</string>
+    <string name="gmail">введите вашу почту</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="password">введите пароль</string>
+    <string name="enter">войти</string>
+    <string name="tv_enter">Вход</string>
+    <string name="forgot_pass">Забыл пароль?</string>
+    <string name="hint">Выполните вход\nили зарегистрируйтесь.</string>
+
+
+</resources>
